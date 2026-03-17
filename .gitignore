@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+analisedados/
+venv/
+dados/
+.ipynb_checkpoints/
+*.csv
+*.sps
+*.sas
